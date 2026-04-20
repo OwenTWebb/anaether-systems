@@ -6,7 +6,7 @@ const builds = [
     status: "Active Development",
     tagline: "Micro-class autonomous waypoint platform.",
     description:
-      "Autonimo is a custom 3D-printed micro quad built from the ground up for fully autonomous GPS waypoint missions. At roughly 235g AUW on a 3-inch prop platform, it's engineered for efficiency — not speed. Powered by a SpeedyBee F405 Mini running iNav and a UBLOX M10 GPS, it takes off, executes a programmed route, and lands without any pilot input. A 3S Li-ion pack built from Molicel P26A cells targets 45–50 minutes of flight time, making it one of the longest-endurance platforms at this size class. Initial waypoint missions are flying. Tuning, range testing, and mission refinement are ongoing.",
+      "Autonimo is a custom 3D-printed micro quad built from the ground up for fully autonomous GPS waypoint missions. At roughly 235g AUW on a 3-inch prop platform, it's engineered for efficiency — not speed. Equipped with a UBLOX M10 GPS — one of the smallest M10-equipped quads in existence — and a SpeedyBee F405 Mini running iNav, it takes off, executes a programmed route, and lands without any pilot input. A 3S Li-ion pack built from Molicel P26A cells targets 45–50 minutes of flight time, making it one of the longest-endurance platforms at this size class. Initial waypoint missions are flying. Tuning, range testing, and mission refinement are ongoing.",
     specs: [
       { label: "Frame", value: "Custom 3D-printed, ~3\" class" },
       { label: "Flight Controller", value: "SpeedyBee F405 Mini / iNav" },
