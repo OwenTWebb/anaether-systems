@@ -27,7 +27,7 @@ export default function Hero() {
           <span className="text-blue-500">SYSTEMS</span>
         </h1>
         <p className="text-base sm:text-lg text-white/40 font-light max-w-md mx-auto tracking-wide">
-          Engineering autonomy at the edge of possibility.
+          Not just another solution.
         </p>
       </div>
 
