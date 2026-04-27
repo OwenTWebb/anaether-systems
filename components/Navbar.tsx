@@ -21,10 +21,10 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 px-6 py-5 flex items-center justify-between">
       <Link href="/" className="hover:opacity-70 transition-opacity duration-200">
         <Image
-          src="/assets/logos/logo-stacked-dark.svg"
+          src="/assets/logos/logo-icon-dark.svg"
           alt="Anaether Systems"
-          width={44}
-          height={56}
+          width={36}
+          height={36}
           priority
         />
       </Link>

@@ -20,21 +20,13 @@ export default function Hero() {
 
       {/* Content */}
       <div className="relative z-10 text-center px-4">
-        <p className="text-xs tracking-[0.4em] text-blue-400 uppercase mb-8 font-medium">
-          Est. 2024
-        </p>
-        <div className="flex justify-center mb-8">
-          <Image
-            src="/assets/logos/logo-stacked-dark.svg"
-            alt="Anaether Systems"
-            width={180}
-            height={229}
-            priority
-          />
-        </div>
-        <p className="text-base sm:text-lg text-white/40 font-light max-w-md mx-auto tracking-wide">
-          Not just another solution.
-        </p>
+        <Image
+          src="/assets/logos/logo-stacked-dark.svg"
+          alt="Anaether Systems"
+          width={280}
+          height={356}
+          priority
+        />
       </div>
 
       {/* Bottom fade */}
