@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="640" viewBox="0 0 680 640">
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- ANAETHER SYSTEMS — Full Logo Set        -->
+  <!-- Colors: #0C447C (dark), #185FA5 (mid),  -->
+  <!--         #378ADD (accent), #85B7EB (light)-->
+  <!-- ═══════════════════════════════════════ -->
+
+  <!-- ── STACKED DARK ── -->
+  <rect x="20" y="20" width="220" height="280" rx="10" fill="#0C447C"/>
+  <g transform="translate(130, 148)">
+    <polygon points="-36,26 0,-28 36,26 29,26 0,-15 -29,26" fill="white" opacity="0.10"/>
+    <polyline points="-36,26 0,-28 36,26" fill="none" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+    <polygon points="-24,16 0,-18 24,16 17,16 0,-10 -17,16" fill="white" opacity="0.20"/>
+    <polyline points="-24,16 0,-18 24,16" fill="none" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polygon points="-11,7 0,-9 11,7 7,7 0,-4 -7,7" fill="white" opacity="0.92"/>
+    <polyline points="-11,7 0,-9 11,7" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="0" y="52" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="500" letter-spacing="0.14em" fill="white">ANAETHER</text>
+    <text x="0" y="68" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" font-weight="400" letter-spacing="0.34em" fill="#85B7EB">SYSTEMS</text>
+    <polyline points="-56,-40 -63,-40 -63,-31" fill="none" stroke="#85B7EB" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="56,-40 63,-40 63,-31" fill="none" stroke="#85B7EB" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="-56,76 -63,76 -63,67" fill="none" stroke="#85B7EB" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="56,76 63,76 63,67" fill="none" stroke="#85B7EB" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+  </g>
+
+  <!-- ── STACKED LIGHT ── -->
+  <rect x="260" y="20" width="220" height="280" rx="10" fill="#E6F1FB"/>
+  <g transform="translate(370, 148)">
+    <polygon points="-36,26 0,-28 36,26 29,26 0,-15 -29,26" fill="#185FA5" opacity="0.09"/>
+    <polyline points="-36,26 0,-28 36,26" fill="none" stroke="#185FA5" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
+    <polygon points="-24,16 0,-18 24,16 17,16 0,-10 -17,16" fill="#185FA5" opacity="0.18"/>
+    <polyline points="-24,16 0,-18 24,16" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.58"/>
+    <polygon points="-11,7 0,-9 11,7 7,7 0,-4 -7,7" fill="#185FA5" opacity="0.90"/>
+    <polyline points="-11,7 0,-9 11,7" fill="none" stroke="#185FA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="0" y="52" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="500" letter-spacing="0.14em" fill="#0C447C">ANAETHER</text>
+    <text x="0" y="68" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" font-weight="400" letter-spacing="0.34em" fill="#378ADD">SYSTEMS</text>
+    <polyline points="-56,-40 -63,-40 -63,-31" fill="none" stroke="#378ADD" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="56,-40 63,-40 63,-31" fill="none" stroke="#378ADD" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="-56,76 -63,76 -63,67" fill="none" stroke="#378ADD" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="56,76 63,76 63,67" fill="none" stroke="#378ADD" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  </g>
+
+  <!-- ── ICON DARK ── -->
+  <rect x="500" y="20" width="160" height="160" rx="10" fill="#0C447C"/>
+  <g transform="translate(580, 100)">
+    <polygon points="-34,25 0,-26 34,25 27,25 0,-14 -27,25" fill="white" opacity="0.10"/>
+    <polyline points="-34,25 0,-26 34,25" fill="none" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+    <polygon points="-22,15 0,-17 22,15 16,15 0,-9 -16,15" fill="white" opacity="0.20"/>
+    <polyline points="-22,15 0,-17 22,15" fill="none" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polygon points="-10,6 0,-8 10,6 6,6 0,-3 -6,6" fill="white" opacity="0.92"/>
+    <polyline points="-10,6 0,-8 10,6" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="-38,-32 -44,-32 -44,-24" fill="none" stroke="#85B7EB" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="38,-32 44,-32 44,-24" fill="none" stroke="#85B7EB" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="-38,32 -44,32 -44,24" fill="none" stroke="#85B7EB" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="38,32 44,32 44,24" fill="none" stroke="#85B7EB" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+  </g>
+
+  <!-- ── ICON LIGHT ── -->
+  <rect x="500" y="200" width="160" height="160" rx="10" fill="#E6F1FB"/>
+  <g transform="translate(580, 278)">
+    <polygon points="-34,25 0,-26 34,25 27,25 0,-14 -27,25" fill="#185FA5" opacity="0.09"/>
+    <polyline points="-34,25 0,-26 34,25" fill="none" stroke="#185FA5" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
+    <polygon points="-22,15 0,-17 22,15 16,15 0,-9 -16,15" fill="#185FA5" opacity="0.18"/>
+    <polyline points="-22,15 0,-17 22,15" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.58"/>
+    <polygon points="-10,6 0,-8 10,6 6,6 0,-3 -6,6" fill="#185FA5" opacity="0.90"/>
+    <polyline points="-10,6 0,-8 10,6" fill="none" stroke="#185FA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="-38,-32 -44,-32 -44,-24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="38,-32 44,-32 44,-24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="-38,32 -44,32 -44,24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="38,32 44,32 44,24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  </g>
+
+  <!-- ── HORIZONTAL DARK ── -->
+  <rect x="20" y="320" width="460" height="110" rx="10" fill="#0C447C"/>
+  <g transform="translate(90, 375)">
+    <polygon points="-26,18 0,-20 26,18 21,18 0,-11 -21,18" fill="white" opacity="0.10"/>
+    <polyline points="-26,18 0,-20 26,18" fill="none" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+    <polygon points="-17,11 0,-13 17,11 12,11 0,-7 -12,11" fill="white" opacity="0.20"/>
+    <polyline points="-17,11 0,-13 17,11" fill="none" stroke="white" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polygon points="-8,5 0,-7 8,5 5,5 0,-3 -5,5" fill="white" opacity="0.92"/>
+    <polyline points="-8,5 0,-7 8,5" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="-32,-26 -37,-26 -37,-20" fill="none" stroke="#85B7EB" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="32,-26 37,-26 37,-20" fill="none" stroke="#85B7EB" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="-32,26 -37,26 -37,20" fill="none" stroke="#85B7EB" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+    <polyline points="32,26 37,26 37,20" fill="none" stroke="#85B7EB" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+  </g>
+  <line x1="145" y1="342" x2="145" y2="408" stroke="#85B7EB" stroke-width="0.75" opacity="0.3"/>
+  <text x="165" y="366" font-family="system-ui, sans-serif" font-size="18" font-weight="500" letter-spacing="0.14em" fill="white">ANAETHER</text>
+  <text x="167" y="386" font-family="system-ui, sans-serif" font-size="8.5" font-weight="400" letter-spacing="0.34em" fill="#85B7EB">SYSTEMS</text>
+
+  <!-- ── HORIZONTAL LIGHT ── -->
+  <rect x="20" y="450" width="460" height="110" rx="10" fill="#E6F1FB"/>
+  <g transform="translate(90, 505)">
+    <polygon points="-26,18 0,-20 26,18 21,18 0,-11 -21,18" fill="#185FA5" opacity="0.09"/>
+    <polyline points="-26,18 0,-20 26,18" fill="none" stroke="#185FA5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
+    <polygon points="-17,11 0,-13 17,11 12,11 0,-7 -12,11" fill="#185FA5" opacity="0.18"/>
+    <polyline points="-17,11 0,-13 17,11" fill="none" stroke="#185FA5" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity="0.58"/>
+    <polygon points="-8,5 0,-7 8,5 5,5 0,-3 -5,5" fill="#185FA5" opacity="0.90"/>
+    <polyline points="-8,5 0,-7 8,5" fill="none" stroke="#185FA5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="-32,-26 -37,-26 -37,-20" fill="none" stroke="#378ADD" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="32,-26 37,-26 37,-20" fill="none" stroke="#378ADD" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="-32,26 -37,26 -37,20" fill="none" stroke="#378ADD" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="32,26 37,26 37,20" fill="none" stroke="#378ADD" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  </g>
+  <line x1="145" y1="472" x2="145" y2="538" stroke="#378ADD" stroke-width="0.75" opacity="0.3"/>
+  <text x="165" y="496" font-family="system-ui, sans-serif" font-size="18" font-weight="500" letter-spacing="0.14em" fill="#0C447C">ANAETHER</text>
+  <text x="167" y="516" font-family="system-ui, sans-serif" font-size="8.5" font-weight="400" letter-spacing="0.34em" fill="#378ADD">SYSTEMS</text>
+
+</svg>

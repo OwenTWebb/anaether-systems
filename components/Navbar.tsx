@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 const links = [
@@ -18,8 +19,14 @@ export default function Navbar() {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 px-6 py-5 flex items-center justify-between">
-      <Link href="/" className="text-xs tracking-[0.3em] text-white font-medium uppercase hover:text-white/70 transition-colors duration-200">
-        Anaether
+      <Link href="/" className="hover:opacity-70 transition-opacity duration-200">
+        <Image
+          src="/assets/logos/logo-stacked-dark.svg"
+          alt="Anaether Systems"
+          width={44}
+          height={56}
+          priority
+        />
       </Link>
 
       {/* Desktop nav */}

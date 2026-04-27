@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="500 200 160 160" width="160" height="160">
+  <rect x="500" y="200" width="160" height="160" rx="10" fill="#E6F1FB"/>
+  <g transform="translate(580, 278)">
+    <polygon points="-34,25 0,-26 34,25 27,25 0,-14 -27,25" fill="#185FA5" opacity="0.09"/>
+    <polyline points="-34,25 0,-26 34,25" fill="none" stroke="#185FA5" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
+    <polygon points="-22,15 0,-17 22,15 16,15 0,-9 -16,15" fill="#185FA5" opacity="0.18"/>
+    <polyline points="-22,15 0,-17 22,15" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.58"/>
+    <polygon points="-10,6 0,-8 10,6 6,6 0,-3 -6,6" fill="#185FA5" opacity="0.90"/>
+    <polyline points="-10,6 0,-8 10,6" fill="none" stroke="#185FA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="-38,-32 -44,-32 -44,-24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="38,-32 44,-32 44,-24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="-38,32 -44,32 -44,24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <polyline points="38,32 44,32 44,24" fill="none" stroke="#378ADD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  </g>
+</svg>

@@ -4,6 +4,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Anaether Systems",
   description: "Autonomous systems and engineering innovation.",
+  icons: {
+    icon: "/assets/logos/logo-icon-dark.svg",
+    shortcut: "/assets/logos/logo-icon-dark.svg",
+  },
   openGraph: {
     title: "Anaether Systems",
     description: "Autonomous systems and engineering innovation.",
