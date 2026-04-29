@@ -20,6 +20,28 @@ const builds = [
     tags: ["Autonomous", "iNav", "GPS", "Micro"],
   },
   {
+    name: "Long Range Vision Drone",
+    status: "In Development",
+    tagline: "7-inch open source long range FPV platform with real-time aerial computer vision.",
+    description:
+      "A 7-inch long range FPV drone engineered for real-time aerial computer vision and multi-mission intelligence work. The entire stack is open source and open protocol — ELRS 2.4GHz handles the control link (open source, encrypted binding phrase, sub-10ms latency), Walksnail Avatar Moonlight delivers HD digital FPV video on an open platform, and iNav provides GPS-enabled autonomous waypoint navigation and return-to-home. The primary mission target is vehicle counting: fly over a parking lot and autonomously classify and count cars in real time using a Roboflow YOLOv5n model running on an onboard Raspberry Pi Zero 2W. v1 architecture pipes the vision feed through a downward-angled analog camera to a ground VRX and into a laptop for live inference monitoring. v2 upgrades to a Raspberry Pi 4 with a Google Coral AI accelerator — fully local onboard inference, zero ground transmission dependency, and on-aircraft data logging. No ground station. No uplink required. The platform is intentionally modular: swap the model, swap the mission. Current and planned applications include surveillance and perimeter monitoring, defense and intelligence gathering, battlefield and area reconnaissance, livestock and agricultural health monitoring, infrastructure and pipeline inspection, and vehicle or personnel detection for security operations. Built as a reusable edge compute airframe, not a single-purpose tool.",
+    specs: [
+      { label: "Frame", value: "Mark4 7\" carbon fiber" },
+      { label: "Flight Controller", value: "HGLRC F405 / iNav" },
+      { label: "ESC", value: "HGLRC Zeus" },
+      { label: "Motors", value: "2807 1400KV" },
+      { label: "Props", value: "8\" triblade" },
+      { label: "Video", value: "Walksnail Avatar Moonlight (open)" },
+      { label: "Control Link", value: "ELRS 2.4GHz — encrypted, open source" },
+      { label: "GPS", value: "HGLRC M100 M10 + compass" },
+      { label: "Compute v1", value: "RPi Zero 2W / Roboflow YOLOv5n" },
+      { label: "Compute v2", value: "RPi 4 + Google Coral — fully local" },
+      { label: "Battery", value: "4S 2200mAh LiPo" },
+      { label: "Primary Mission", value: "Aerial vehicle detection & counting" },
+    ],
+    tags: ["Computer Vision", "FPV", "ELRS", "iNav", "Open Source", "Surveillance"],
+  },
+  {
     name: "TinySub",
     status: "In Development",
     tagline: "Sub-$350 autonomous torpedo-style UUV.",
