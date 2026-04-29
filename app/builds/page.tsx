@@ -19,6 +19,24 @@ const builds = [
     ],
     tags: ["Autonomous", "iNav", "GPS", "Micro"],
   },
+  {
+    name: "TinySub",
+    status: "In Development",
+    tagline: "Sub-$350 autonomous torpedo-style UUV.",
+    description:
+      "A compact torpedo-profile autonomous underwater vehicle designed for stealth recon and swarm applications. Built around simplicity — two thrusters (rear axial for propulsion, front transverse for yaw steering), variable buoyancy via peristaltic pump and syringe ballast system, and a surface bobber with ELRS receiver for RF comms that sidesteps the RF-through-water problem entirely. Saltwater-tolerant from day one with 316SS hardware, PETG hull, and double O-ring penetrations.",
+    specs: [
+      { label: "Hull", value: "3D-printed PETG torpedo profile" },
+      { label: "Propulsion", value: "2x HobbyWater TD1.2 thrusters" },
+      { label: "Depth Control", value: "Bar02 + peristaltic pump ballast" },
+      { label: "Compute", value: "RPi Zero 2W + SpeedyBee F405 Mini" },
+      { label: "Comms", value: "ELRS nano on surface bobber" },
+      { label: "Target Depth", value: "10m (v1)" },
+      { label: "Endurance", value: "~20 min" },
+      { label: "Target BOM", value: "Under $350" },
+    ],
+    tags: ["Autonomous", "AUV", "Underwater", "Swarm"],
+  },
 ];
 
 export default function Builds() {
